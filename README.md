@@ -6,8 +6,6 @@ Questo file contiene libri, corsi e risorse utili per imparare:
 - Game Development
 - Rust Gamedev (Bevy e concetti ECS)
 
-L'obiettivo NON è studiare tutto insieme, ma seguire un ordine progressivo.
-
 ---
 
 # 📚 1. Rust Fundamentals (PRIMA DI GAMEDEV)
@@ -29,6 +27,12 @@ book
 
 ```bash
 rustup doc --book 
+```
+
+per aprire la doc delle dipendenze "crates"
+
+```bash
+rustup doc --open 
 ```
 
 Perché:
